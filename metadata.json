@@ -1,0 +1,8 @@
+{
+  "name": "School Bus Dispatch Tracker",
+  "description": "Simple iPad-to-TV school bus status board for students: Gray for not arrived, Green for arrived, Red for departed with single-tap controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
